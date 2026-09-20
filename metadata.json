@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Table",
+  "description": "Kitchen • Dining • Bar - High-end culinary dining, reservations, interactive menu, and online ordering platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
